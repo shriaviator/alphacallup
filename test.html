@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <img src="./indigologo.png" class="modal">
+  <img src="./indigologo.png" class="modal">
+  <img src="./indigologo.png" class="modal">
+  <img src="./indigologo.png" class="modal">
+  <img src="./indigologo.png" class="modal">
+  <img src="./indigologo.png" class="modal">
+
+
+  <script>
+let alpha = document.getElementsByClassName("modal")
+let myArray = [...alpha]
+console.log(myArray)
+for(let i = 0 ;i<alpha.length;i++){
+  
+  alpha[i].style.border="3px solid blue"
+}
+  </script>
+</body>
+</html>
