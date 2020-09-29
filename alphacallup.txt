@@ -1,0 +1,485 @@
+ACTYP / No Label / No Units / A/C Type (DMU computed)
+ACW1 / No Label / No Units / APU control word #1 (DMU computed)
+ACW2 / No Label / No Units / APU control word #2 (DMU computed)
+ACW3 / No Label / No Units / APU control word #3 (DMU computed)
+ACW4 / No Label / No Units / APU control word #4 (DMU computed)
+ACYC / No Label / No Units / APU cycles (DMU computed)
+ACYI / 7A 1 133 01 / CYCLES / APU start cycles
+ADW1 / 7A 1 037 01 / No Units / APU:Discrete status word #1
+AHRI / 7A 1 132 01 / / H / APU operating hours
+AHRS / No Label / H / APU hours (DMU computed)
+AIL / 6C 1 310 01 / DEG / Aileron position left
+AIL / 6C 1 330 01 / DEG / Aileron position right
+AILL / 6C 1 310 01 / DEG / Aileron position left
+AILL / 6C 2 310 10 / DEG / Aileron position left
+AILR / 6C 1 330 01 / DEG / Aileron position right
+AILR / 6C 2 330 10 / DEG / Aileron position right
+ALT / 06 1 203 01 / FEET / Altitude (1013.25mb) (switched parameter)
+ALT / 06 2 203 10 / FEET / Altitude (1013.25mb) (switched parameter)
+ALT3 / 26 1 203 11 / FEET / altitude 3 (1013.25 ha)
+ALTR / 01 1 365 00 / FT/MIN / Altitude rate (VZBI)
+ALTR / 01 2 365 00 / FT/MIN / Altitude rate (VZBI)
+AMW1 / 7A 1 353 01 / No Units / APU:Maintenance word #l
+AMW2 / 7A 1 351 01 / No Units / APU:Maintenance word #2
+AMW3 / 7A 1 352 01 / No Units / APU:Maintenance word #3
+AOA / 06 1 241 01 / DEG / Corrected angle of attack system #l
+AOA / 06 2 241 10 / DEG / Corrected angle of attack system #2
+A0A3 / 26 1 241 11 / DEG / Corrected angle of attack 3
+AP / No Label / No Units / Auto pilot status (AP) left
+AP / No Label / No Units / Auto pilot status (AP) right
+APLAT / No Label / No Units / A/P lateral mode left
+APLAT / No Label / No Units / A/P lateral mode right
+APLON / No Label / No Units / A/P longitudinal mode left
+APLON / No Label / No Units / A/P longitudinal mode right
+ASN / 7A 1 050 01 / No Units / APU serial number
+BAF / 7C 1 335 01 / % / 2.5 Bleed actuator feedback engine #1
+BAF / 7C 2 335 10 / % / 2.5 Bleed actuator feedback engine #2
+BP1 / 6E 1 300 01 / BAR / brake 1 pressure
+BP1 / 6E 2 300 10 / BAR / brake 1 pressure
+BP2 / 6E 1 301 01 / BAR / brake 2 pressure
+BP2 / 6E 2 301 10 / BAR / brake 2 pressure
+BP3 / 6E 1 302 01 / BAR / brake 3 pressure
+BP3 / 6E 2 302 10 / BAR / brake 3 pressure
+BP4 / 6E 1 303 01 / BAR / brake 4 pressure
+BP4 / 6E 2 303 10 / BAR / brake 4 pressure
+BT1 / 6E 1 114 01 / DEGC / Brake 1 temperature
+BT1 / 6E 2 114 10 / DEGC / Brake 1 temperature
+BT2 / 6E 1 115 01 / DEGC / Brake 2 temperature
+BT2 / 6E 2 115 10 / DEGC / Brake 2 temperature
+BT3 / 6E 1 116 01 / DEGC / Brake 3 temperature
+BT3 / 6E 2 116 10 / DEGC / Brake 3 temperature
+BT4 / 6E 1 117 01 / DEGC / Brake 4 temperature
+BT4 / 6E 2 117 10 / DEGC / Brake 4 temperature
+BVP / 26 1 031 01 / No Units / Scavenge valve open engine #1
+BVP / 26 1 031 10 / No Units / Scavenge valve open engine #2
+CAS / 06 1 206 01 / KTS / Computed air speed (switched parameter)
+CAS / 06 2 206 10 / KTS / Computed air speed (switched parameter)
+CAS3 / 26 1 206 11 / KTS / calibrated air speed 3
+CFPG / No Label / No Units / Calculated flight path acceleration system #1
+CG / 02 1 077 00 / %MAC / Calculated flight path acceleration system #2
+CG / 02 2 077 00 / %MAC / Long center of gravity (switched parameter)
+CIVV / No Label / No Units / Calculated inertial vertical speed system #1
+CIVV / No Label / No Units / Calculaied inertial vertical speed system #2
+CNT / No Label / No Units / report count
+COT / 8E 1 123 11 / DEGC / Pack compr. outlet temperature LH
+COT / 8E 2 123 00 / DEGC / Pack compr. outlet temperature RH
+CSV1 / 6E 1 310 01 / MA / current SVN1
+CSV1 / 6E 2 310 10 / MA / current SVN1
+CSV2 / 6E 1 311 01 / MA / current SVN2
+CSV2 / 6E 2 311 10 / MA / current SVN2
+CSV3 / 6E 1 312 01 / MA / current SVN3
+CSV3 / 6E 2 312 10 / MA / current SVN3
+CSV4 / 6E 1 313 01 / MA / current SVN4
+CSV4 / 6E 2 313 10 / MA / current SVN4
+DA / 04 1 321 01 / DEG / Drift angle
+DA / 04 2 321 10 / DEG / Drift angle
+DATE / 17 1 260 00 / No Units / GMT date
+DMEF / 25 1 035 01 / MHz / DME 1 frequency
+DMEF / 25 1 035 10 / MHz / DME 2 frequency
+DSW1 / 6E 1 270 01 / No Units / BSCU discrete status word 1
+DSW1 / 6E 2 270 10 / No Units / BSCU discrete status word 1
+DSW2 / 6E 1 026 01 / No Units / BSCU discrete status word 2
+DSW2 / 6E 2 026 10 / No Units / BSCU discrete status word 2
+DSW3 / 6E 1 027 01 / No Units / BSCU discrete status word 3
+DSW3 / 6E 2 027 10 / No Units / BSCU discrete status word 3
+ECW1 / No Label / No Units / Engine #1 control word #1
+ECW1 / No Label / No Units / Engine #2 control word #1
+ECW2 / No Label / No Units / Engine #1 control word #2
+ECW2 / No Label / No Units / Engine #2 control word #2
+ECW3 / No Label / No Units / Engine #1 control word #3
+ECW3 / No Label / No Units / Engine #2 control word #3
+ECW4 / No Label / No Units / Engine #1 controi word #4
+ECW4 / No Label / No Units / Engine #2 control word #4
+ECW5 / No Label / No Units / Engine #1 control word #5
+ECW5 / No Label / No Units / Engine #2 control word #5
+ECYC / No Label / No Units / Engine # 1 cycles (DMU computed)
+ECYC / No Label / No Units / Engine # 2 cycles (DMU computed)
+EECD1 / 7C 1 270 01 / No Units / EEC Discrete status word #1 engine #1
+EECD1 / 7C 2 270 10 / No Units / EEC Discrete status word #1 engine #2
+EECD2 / 7C 1 271 01 / No Units / EEC Discrete status word #2 engine #1
+EECD2 / 7C 2 271 10 / No Units / EEC Discrete status word #2 engine #2
+EECD3 / 7C 1 272 01 / No Units / EEC Discrete status word #3 engine #1
+EECD3 / 7C 2 272 10 / No Units / EEC Discrete status word #3 engine #2
+EECD7 / 7C 1 276 01 / No Units / EEC Discrete status word #7 engine #1
+EECD7 / 7C 2 276 10 / No Units / EEC Discrete status word #7 engine #2
+EECD8 / 7C 1 145 01 / No Units / EEC Discrete status word #8 engine #1
+EECD8 / 7C 2 145 10 / No Units / EEC Discrete status word #8 engine #2
+EECM2 / 7C 1 351 01 / No Units / EEC Maintenance data word #2 engine #1
+EECM2 / 7C 2 351 10 / No Units / EEC Maintenance data word #2 engine #2
+EECM6 / 7C 1 155 01 / No Units / EEC Maintenance data word #6 engine #1
+EECM6 / 7C 2 155 10 / No Units / EEC Maintenance data word #6 engine #2
+EGT / 7C 1 345 01 / DEGC / EGT LPT exit temp engine #1
+EGT / 7C 2 345 10 / DEGC / EGT LPT exit temp engine #2
+EGTA / 7A 1 175 01 / DEGC / APU EGT
+EGTF / No Label / DEGC / EGT LPT exit temp engine #1:Filtered parameter
+EGTF / No Label / DEGC / EGT LPT exit temp engine #2:Filtered parameter
+EGTK / No Label / No Units / EGT corrected left (DMU computed)
+EGTK / No Label / No Units / EGT corrected right (DMU computed)
+EGTP / No Label / DEGC / APU EGT PEAK during APU start
+EGTR / No Label / DEG / delta EGT reference value in climb/cruise
+EHRS / No Label / No Units / Engine #1 hours (DMU computed)
+EHRS / No Label / No Units / Engine #2 hours (DMU computed)
+ELEV / 6C 1 314 01 / DEG / Elevator position left
+ELEV / 6C 1 334 01 / DEG / Elevator position right
+ENGFA / 17 1 304 00 / No Units / A/C type engine
+ENTYP / No Label / No Units / Engine type (DMU computed)
+EPR / 7C 1 340 01 / No Units / EPR actual engine #1
+EPR / 7C 2 340 10 / No Units / EPR actual engine #2
+EPRC / 7C 1 341 01 / No Units / EPR command engine #1
+EPRC / 7C 2 341 10 / No Units / EPR command engine #2
+EPRT / 7C 1 342 01 / No Units / EPR Take Off engine #1
+EPRT / 7C 2 342 10 / No Units / EPR Take Off engine #2
+EPRTG / 7C 1 343 01 / No Units / Target EPR (echo) (send by AT) engine #1
+EPRTG / 7C 2 343 10 / No Units / Target EPR (echo) (send by AT) engine #2
+ESN / No Label / No Units / Engine #1 serial number (DMU computed)
+ESN / No Label / No Units / Engine #2 serial number (DMU computed)
+ESN1 / 7C 1 047 01 / No Units / Engine serial number (First half) engine #1
+ESN1 / 7C 1 046 01 / No Units / Engine serial number (Last half) engine #1
+ESN2 / 7C 2 047 10 / No Units / Engine serial number (First half) engine #2
+ESN2 / 7C 2 046 10 / No Units / Engine serial number (Last half) engine #2
+EVM / 3D 1 035 01 / No Units / EVM discrete word #1 engine #1
+EVM / 3D 1 035 10 / No Units / EVM discrete word #1 engine #2
+F319 / 1B 1 137 01 / No Units / FLAP actual position left for A319
+F319 / 1B 2 137 10 / No Units / FLAP actual position right for A319
+F320 / 1B 1 137 01 / No Units / FLAP actual position left for A320
+F320 / 1B 2 137 10 / No Units / FLAP actual position right for A320
+F321 / 1B 1 137 01 / DEG / FLAP actual position left for A321
+F321 / 1B 2 137 10 / DEG / FLAP actual position right for A321
+FD / No Label / No Units / Fuel density left wing tank (DMU computed)
+FD / No Label / No Units / Fuel density right, wing tank (DMU computed)
+FDC / No Label / No Units / Fuel density center wing tank (DMU computed)
+FDL / No Label / No Units / Fuel density left wing tank (DMU computed)
+FDR / No Label / No Units / Fuel density right wing tank (DMU computed)
+FDRAW / 5A 2 272 10 / No Units / Fuel density
+FF / 7C 1 244 01 / PPH/KG / Fuel mass flow rate engine #1
+FF / 7C 2 244 10 / PPH/KG / Fuel mass flow rate engine #2
+FFK / No Label / No Units / Fuel flow corrected engine #1
+FFK / No Label / No Units / Fuel flow corrected engine #2
+FLAP / No Label / DEG / FLAP actual position left
+FLAP / No Label / DEG / FLAP actual position right
+FLAPW / No Label / DEG / FLAP actual position switched
+FLCNT / No Label / No Units / Flight counter
+FLNUM / No Label / No Units / Flight number (DMU computed)
+FM / No Label / No Units / Flight phase to display (DMU computed)
+FMB / No Label / No Units / Flight phase broadcasted to ACARS(DMU computed)
+FMF / 26 1 126 01 / No Units / FWC Flight phases
+FMF / 26 2 126 01 / No Units / FWC Flight phases
+FMGD1 / 01 1 274 00 / No Units / FMGC discrete status word #1
+FMGD1 / 01 2 274 00 / No Units / FMGC discrete status word #1
+FMGD2 / 01 1 275 00 / No Units / FMGC discrete status word #2
+FMGD2 / 01 2 275 00 / No Units / FMGC discrete status word #2
+FMGD4 / 01 1 146 00 / No Units / FMGC discrete status word #4
+FMGD4 / 01 2 146 00 / No Units / FMGC discrete status word #4
+FMI / No Label / No Units / Internal flight phase (DMU computed)
+FPA / 04 1 322 01 / DEG / Flight path angle
+FPA / 04 2 322 10 / DEG / Flight path angle
+FPAC / 04 1 323 01 / G / Flight path acceleration
+FPAC / 04 2 323 10 / G / Flight path acceleration
+FPPU / 1B 1 137 01 / DEG / FLAP actual position (FPPU angle value)
+FPPU / 1B 2 137 10 / DEG / FLAP actual position (FPPU angle value)
+FROM / No Label / No Units / Departure (DMU computed)
+FRTO / No Label / ORIGIN / Departure (DMU computed)
+FRTO / No Label / No Units / Destination (DMU COMPUTED)
+FT / 5A 2 177 10 / DEGC / Fuel temperature engine #1
+FT / 5A 2 201 10 / DEGC / Fuel temperature engine #2
+GLA / 29 1 100 00 / % / APU Generator load
+GLA / 29 2 100 00 / % / APU Generator load
+GLE / 29 1 077 01 / % / Generator load engine #1
+GLE / 29 1 077 10 / % / Generator load engine #2
+GLS / 25 1 174 01 / DDM / ILS1 glideslope deviation
+GLS / 25 1 174 10 / DDM / ILS2 glideslope deviation
+GS / 04 1 312 01 / KTS / Ground speed
+GS / 04 2 312 10 / KTS / Ground speed
+GW / 02 1 075 00 / 10Kg / Actual Gross Weight
+GW / 02 2 075 00 / 10Kg / Actual Gross Weight
+GWFK / 0A 1 074 00 / KG / gross weight FAC (kg)
+GWFK / 0A 2 074 00 / KG / gross weight FAC (kg)
+GWFL / 0A 1 074 00 / LBS / gross weight FAC (lbs)
+GWFL / 0A 2 074 00 / LBS / gross weight FAC (lbs)
+HPT / 7C 1 330 01 / % / ACC feedback engine #1
+HPT / 7C 2 330 10 / % / ACC feedback engine #2
+HPTC / 7C 1 063 01 / % / HPTC demand #1
+HPTC / 7C 2 063 10 / % / HPTC demand #2
+IALT / 04 1 361 / FEET / Inertial altitude
+IALT / 04 2 361 / FEET / Inertial altitude
+IGV / 7A 1 130 01 / DEG / APU IGV position
+ILS / 25 1 033 01 / MHz / ILS 1 frequency
+ILS / 25 1 033 10 / MHz / ILS 2 frequency
+IVV / 04 1 365 01 / FT/MIN / Initial vertical speed
+IVV / 04 2 365 10 / FT/MIN / Initial vertical speed
+K / No Label / No Units / K value for divergence (EGT or TN) computing
+LATA / 29 1 332 01 / G / Lateral acceleration
+LATA / 29 2 332 01 / G / Lateral acceleration
+LATG / 04 1 332 01 / G / body lateral acceleration
+LATG / 04 2 332 10 / G / body lateral acceleration
+LATP / 04 1 310 / No Units / Present position latitude system 1
+LATP / 04 2 310 / No Units / Present position latitude system 2
+LCDT / 7A 1 074 01 / DEGC / APU Bleed air temperature
+LCIT / 7A 1 110 01 / DEGC / APU Load compressor inlet temperature
+LGDW / 6D 1 021 01 / No Units / LGCIU discrete word #2
+LGDW / 6D 2 021 10 / No Units / LGCIU discrete word #2
+LOC / 25 1 173 01 / DDM / ILS1 localizer deviation
+LOC / 25 1 173 10 / DDM / ILS2 localizer deviation
+LONA / 29 1 331 01 / G / Longitudinal acceleration
+LONA / 29 2 331 01 / G / Longitudinal acceleration
+LONG / 04 1 331 01 / G / body longitudinal acceleration
+LONG / 04 2 331 10 / G / body longitudinal acceleration
+LONP / 04 1 311 / DEG / Present position longitude System 1
+LONP / 04 2 311 / DEG / Present position longitude system 2
+LOPP / 6E 1 331 01 / DEG / Left brake pedal angle
+LOPP / 6E 2 331 10 / DEG / Left brake pedal angle
+MFDI / 17 1 350 00 / No Units / FDIU maintenance word
+MH / 04 1 320 01 / DEG / Magnetic heading
+MH / 04 2 320 10 / DEG / Magnetic heading
+MN / 06 1 205 01 / MACH / Mach (switched parameter)
+MN / 06 2 205 10 / MACH / Mach (switched Parameter)
+MN3 / 26 1 205 11 / MACH / Mach 3
+MW1 / 7C 1 350 01 / No Units / ECU Maintenance data word #1 engine #1
+MW1 / 7C 2 350 10 / No Units / ECU Maintenance data word #1 engine #2
+MW2 / 7C 1 351 01 / No Units / ECU Maintenance data word #2 engine #1
+MW2 / 7C 2 351 10 / No Units / ECU Maintenance data word #2 engine #2
+MW3 / 7C 1 352 01 / No Units / ECU Maintenance data word #3 engine #1
+MW3 / 7C 2 352 10 / No Units / ECU Maintenance data word #3 engine #2
+MW4 / 7C 1 353 01 / No Units / ECU Maintenance data word #4 engine #1
+MW4 / 7C 2 353 10 / No Units / ECU Maintenance data word #4 engine #2
+MW5 / 7C 1 354 01 / No Units / ECU Maintenance data word #5 engine #1
+MW5 / 7C 2 354 10 / No Units / ECU Maintenance data word #5 engine #2
+MW6 / 7C 1 155 01 / No Units / ECU Maintenance data word #6 engine #1
+MW6 / 7C 2 155 10 / No Units / ECU Maintenance data word #6 engine #2
+MW7 / 7C 1 156 01 / No Units / ECU Maintenance data word #7 engine #1
+MW7 / 7C 2 156 10 / No Units / ECU Maintenance data word #7 engine #2
+MW8 / 7C 1 157 01 / No Units / ECU Maintenance data word #8 engine #1
+MW8 / 7C 2 157 10 / No Units / ECU Maintenance data word #8 engine #2
+N1 / 7C 1 346 01 / %RPM / Actual (low rotor speed) engine #1
+N1 / 7C 2 346 10 / %RPM / Actual (low rotor speed) engine #2
+N1K / No Label / N1K / N1 corrected left (DMU computed)
+N1K / No Label / No Units / N1 corrected right (DMU computed)
+N2 / 7C 1 344 01 / %RPM / N2 Actual (high rotor speed) engine #1
+N2 / 7C 2 344 10 / %RPM / N2 Actual (high rotor speed) engine #2
+N2F / No Label / %RPM / N2 Actual (high rotor speed) engine #1:Filtered
+N2F / No Label / %RPM / N2 Actual (high rotor speed) engine #2:Filtered
+N2K / No Label / No Units / N2 corrected left (DMU computed)
+N2K / No Label / No Units / N2 corrected right (DMU computed)
+NA / 7A 1 176 01 / %RPM / APU RPM
+NAI / 50 2 061 10 / No Units / Nacelle anti-ice engine #1 open
+NAI / 50 2 061 10 / No Units / Nacelle anti-ice engine #2 open
+NPA / No Label / %RPM / APU RPM at APU EGT peak during APU start
+NRA / 6E 1 334 01 / DEG / NWS angle
+NRA / 6E 2 334 10 / DEG / NWS angle
+NSVC / 6E 1 335 01 / MA / current servo valve NWS
+NSVC / 6E 2 335 10 / MA / current servo valve NWS
+NWSA / 6E 1 334 01 / DEG / NWS angle
+NWSA / 6E 2 334 10 / DEG / NWS angle
+OIP / 26 1 317 01 / PSI / OIL pressure engine #1
+OIP / 26 1 317 10 / PSI / OIL pressure engine #2
+OIQ / 26 1 073 01 / QUART / OIL quantity engine #1
+OIQ / 26 1 073 10 / QUART / OIL quantity engine #2
+OIQH / No Label / QTS/H / OIL consumption from the previous flight Eng.#1
+OIQH / No Label / QTS/H / OIL consumption from the previous flight Eng.#2
+OIT / 26 1 316 01 / DEGC / OIL temperature engine #1
+OIT / 26 1 316 10 / DEGC / OIL temperature engine #2
+OTA / 7A 1 247 01 / DEGC / APU OIL sum temperature
+OVP / 5C 1 153 01 / % / Outflow valve position
+OVP / 5C 2 153 10 / % / Outflow valve position
+P125 / 7C 1 257 01 / PSIA / P12.5 (FAN exit pressure) engine #1
+P125 / 7C 2 257 10 / PSIA / P12.5 (FAN exit pressure) engine #2
+P2 / 7C 1 131 01 / PSIA / PT2 (FAN inlet pressure) engine #1
+P2 / 7C 2 131 10 / PSIA / PT2 (FAN inlet pressure) engine #2
+P25 / 7C 1 262 01 / PSIA / P2.5 (Low Pressure Compressor exit pressure) #1
+P25 / 7C 2 262 10 / PSIA / P2.5 (Low Pressure Compressor exit pressure) #2
+P2A / 7A 1 112 01 / BAR / APU inlet pressure
+P3 / 7C 1 264 01 / PSIA / Pb burner pressure engine #1
+P3 / 7C 2 264 10 / PSIA / Pb burner pressure engine #2
+P49 / 7C 1 132 01 / PSIA / Low Pressure Turbine exit pressure engine #1
+P49 / 7C 2 132 10 / PSIA / Low Pressure Turbine exit pressure engine #2
+PB / 7C 1 264 01 / PSIA / Pb burner pressure engine #1
+PB / 7C 2 264 10 / PSIA / Pb burner pressure engine #2
+PB10 / 7C 1 162 01 / PSIA / P10 engine #1
+PB10 / 7C 2 162 10 / PSIA / P10 engine #2
+PBV / 8E 1 112 11 / % / Pack bypass valve position system #1
+PBV / 8E 2 112 00 / % / Pack bypass valve position system #2
+PCSW / 5C 1 057 01 / No Units / Press control bus:Status + Fault info
+PCSW / 5C 2 057 10 / No Units / Press control bus:Status + Fault info
+PD / 6F 1 143 01 / PSI / Precooler inlet pressure engine #1
+PD / 6F 1 142 01 / PSI / Precooler inlet pressure engine #2
+PDC / 5C 1 144 01 / PSI / Cabin differential pressure
+PDC / 5C 2 144 10 / PSI / Cabin differential pressure
+PF / 8E 1 126 11 / KG/S / Pack flow system #1
+PF / 8E 2 126 00 / KG/S / Pack flow system #2
+PFAD / 7A 1 004 01 / No Units / APU:Performance adjustments
+PH / No Label / No Units / Flight phase to display (DMU computed)
+PHA / 3D 1 226 01 / DEG / N1 phase unbalance brg1 engine #1
+PHA / 3D 1 226 10 / DEG / N1 phase unbalance brg1 engine #2
+PHT / 3D 1 226 11 / DEG / N1 phase unbalance TRF engine #1
+PHT / 3D 1 226 00 / DEG / N1 phase unbalance TRF engine #2
+PSB / 26 1 320 01 / PSIA / No4 bearing pressure engine #1
+PSB / 26 1 320 10 / PSIA / No4 bearing pressure engine #2
+PSW1 / 8E 1 062 11 / No Units / Discrete data word of pack control bus #1
+PSW1 / 8E 2 062 00 / No Units / Discrete data word of pack control bus #2
+PT / 7A 1 166 01 / BAR / Bleed air pressure
+PTCH / 04 1 324 01 / DEG / Pitch angle
+PTCH / 04 2 324 10 / DEG / Pitch angle
+PTCR / 04 1 326 01 / DEG/S / Body axis pitch rate
+PTCR / 04 2 326 10 / DEG/S / Body axis pitch rate
+RALT / 25 1 164 01 / FEET / Radio height (R/A1)
+RALT / 25 1 164 10 / FEET / Radio height (R/A2)
+RI / 8E 1 130 11 / % / Pack ram inlet position LH
+RI / 8E 2 130 00 / % / Pack ram inlet position RH
+RO / 8E 1 124 11 / % / Pack ram outlet position LH
+RO / 8E 2 124 00 / % / Pack ram outlet position RH
+ROLL / 04 1 325 01 / DEG / ROLL angle
+ROLL / 04 2 325 10 / DEG / ROLL angle
+ROLR / 04 1 327 01 / DEG/S / Body axis roll rate
+ROLR / 04 2 327 10 / DEG/S / Body axis roll rate
+ROPP / 6E 1 330 01 / DEG / Right brake pedal angle
+ROPP / 6E 2 330 10 / DEG / Right brake pedal angle
+RSCC / 6E 1 332 01 / KTS / reference speed command channel
+RSCC / 6E 2 332 10 / KTS / reference speed command channel
+RSP2 / 6C 1 362 01 / DEG / LH spoiler #2 position
+RSP2 / 6C 1 372 01 / DEG / RH spoiler #2 position
+RSP3 / 6C 1 363 01 / DEG / LH spoiler #3 position
+RSP3 / 6C 1 373 01 / DEG / RH spoiler #3 position
+RSP4 / 6C 1 364 01 / DEG / LH spoiler #4 position
+RSP4 / 6C 1 374 01 / DEG / RH spoiler #4 position
+RSP5 / 6C 1 365 01 / DEG / LH spoiler #5 position
+RSP5 / 6C 1 375 01 / DEG / RH spoiler #5 position
+RUDD / 29 1 312 00 / DEG / Rudder position
+RUDD / 29 2 312 00 / DEG / Rudder position
+RUDT / 0A 1 313 00 / DEG / Rudder trim
+RUDT / 0A 2 313 00 / DEG / Rudder trim
+SAT / 06 1 213 01 / DEGC / Static air temperature (BNR)
+SAT / 06 2 213 10 / DEGC / Static air temperature (BNR)
+SC1 / 29 1 242 01 / DEGC/F / Selected ckpt compt temp
+SC1 / 29 2 242 01 / DEGC/F / Selected ckpt compt temp
+SC2 / 29 1 244 01 / DEGC/F / Sel fwd cab compt temp
+SC2 / 29 2 244 01 / DEGC/F / Sel fwd cab compt temp
+SC3 / 29 1 244 01 / DEGC/F / Sel aft cab compt temp
+SC3 / 29 2 244 01 / DEGC/F / Sel aft cab compt temp
+SCC / 6E 1 340 01 / DEG / steering command captain
+SCC / 6E 2 340 10 / DEG / steering command captain
+SCFD / 6E 1 341 01 / DEG / steering command F/0
+SCFD / 6E 2 341 10 / DEG / steering command F/0
+SDS1 / 29 1 001 01 / No Units / SDAC discrete word #1
+SDS1 / 29 2 001 01 / No Units / SDAC discrete word #1
+SDS2 / 29 1 001 10 / No Units / SDAC discrete word #2
+SDS2 / 29 2 001 10 / No Units / SDAC discrete word #2
+SLAT / 1B 1 127 01 / DEG / SLAT actual position system #1
+SLAT / 1B 2 127 10 / DEG / SLAT actual position system #2
+SLP / 0A 1 226 00 / DEG / Estimd sideslip (side slip angle) system #1
+SLP / 0A 2 226 00 / DEG / Estimd sideslip (side slip angle) system #2
+SM / 7C 1 276 01 / No Units / Autostart mode active engine #1
+SM / 7C 2 276 10 / No Units / Autostart mode active engine #2
+STA / No Label / SEC / APU start time
+STAB / 6C 1 315 01 / DEG / Stabilizer position #1
+STVC / 26 1 032 01 / No Units / Scavenge valve stuck closed engine #1
+STVC / 26 1 032 10 / No Units / Scavenge valve stuck closed engine #2
+STVO / 26 1 032 01 / No Units / Scavenge valve stuck open engine #1
+STVO / 26 1 032 10 / No Units / Scavenge valve stuck open engine #2
+SV / 7C 1 270 01 / No Units / Starter air valve open (local switch) engine #1
+SV / 7C 2 270 10 / No Units / Starter air valve open (local switch) engine #2
+SVA / 7C 1 325 01 / % / SVA (stator vane actuator feedback) engine #1
+SVA / 7C 2 325 10 / % / SVA (stator vane actuator feedback) engine #2
+SW1 / 7C 1 270 01 / No Units / ECU Discrete status word #1 engine #1
+SW1 / 7C 2 270 10 / No Units / ECU Discrete status word #1 engine #2
+SW2 / 7C 1 271 01 / No Units / ECU Discrete status word #2 engine #1
+SW2 / 7C 2 271 10 / No Units / ECU Discrete status word #2 engine #2
+SW3 / 7C 1 272 01 / No Units / ECU Discrete status word #3 engine #1
+SW3 / 7C 2 272 10 / No Units / ECU Discrete status word #3 engine #2
+SW4 / 7C 1 273 01 / No Units / ECU Discrete status word #4 engine #1
+SW4 / 7C 2 273 10 / No Units / ECU Discrete status word #4 engine #2
+SW5 / 7C 1 274 01 / No Units / ECU Discrete status word #5 engine #1
+SW5 / 7C 2 274 10 / No Units / ECU Discrete status word #5 engine #2
+SW6 / 7C 1 275 01 / No Units / ECU Discrete status word #6 engine #1
+SW6 / 7C 2 275 10 / No Units / ECU Discrete status word #6 engine #2
+SW7 / 7C 1 276 01 / No Units / ECU Discrete status word #7 engine #1
+SW7 / 7C 2 276 10 / No Units / ECU Discrete status word #7 engine #2
+SW8 / 7C 1 145 01 / No Units / ECU Discrete status word #8 engine #1
+SW8 / 7C 2 145 10 / No Units / ECU Discrete status word #8 engine #2
+SW9 / 7C 1 146 01 / No Units / ECU Discrete status word #9 engine #1
+SW9 / 7C 2 146 10 / No Units / ECU Discrete status word #9 engine #2
+T2 / 7C 1 130 01 / DEGC / T2 (FAN inlet temp) engine #1
+T2 / 7C 2 130 10 / DEGC / T2 (FAN inlet temp) engine #2
+T25 / 7C 1 263 01 / DEGC / T2.5 (exit temperature) ENG #1
+T25 / 7C 2 263 10 / DEGC / T2.5 (exit temperature) ENG #2
+T3 / 7C 1 265 01 / DEGC / T3 (exit temperature) ENG #1
+T3 / 7C 2 265 10 / DEGC / T3 (exit temperature) ENG #2
+TAIL1 / No Label / No Units / A/C ident word #1 (DMU computed)
+TAIL2 / No Label / No Units / A/C ident word #2 (DMU computed)
+TAT / 06 1 211 01 / DEGC / Total air temperature (BNR) (switched param.)
+THDG / 04 1 044 01 / DEG / TRUE HEADING system #1
+THDG / 04 2 044 10 / DEG / TRUE HEADING system #2
+TN / 26 1 322 01 / DEGC / Nacelle temperature engine #1
+TN / 26 1 322 10 / DEGC / Nacelle temperature engine #2
+TNR / No Label / DEG / delta TN reference value in climb
+TNR / No Label / DEG / delta TN reference value in cruise
+TO / No Label / No Units / Destination (DMU COMPUTED)
+TP / 8E 1 121 11 / DEGC / Pack outlet temperature LH
+TP / 8E 2 121 00 / DEGC / Pack outlet temperature RH
+TPO / 6F 1 141 01 / DEGC / Precooler eng #1 outlet temperature
+TPO / 6F 1 140 01 / DEGC / Precooler eng #2 outlet temperature
+TRA / 7C 1 133 01 / No Units / TRA (Throttle resolver angle) engine #1
+TRP / 7C 2 133 10 / No Units / TRA (Throttle resolver angle) engine #2
+TRP / 7C 1 137 01 / No Units / Thrust reserver pos. engine #1
+TRP / 7C 2 137 10 / No Units / Thrust reserver pos. engine #2
+TW / 8E 1 111 11 / DGEC / Pack water extr. temperature LH
+TW / 8E 2 111 00 / DGEC / Pack water extr. temperature RH
+UTC / 17 1 150 00 / UTC / UTC (Universal time coordinated BNR)
+V3 / 0A 1 263 00 / KTS / V3 (min speed flaps retracted )
+V3 / 0A 2 263 00 / KTS / V3 (min speed flaps retracted )
+V4 / 0A 1 264 00 / KTS / V4 (min speed siats retracted )
+V4 / 0A 2 264 00 / KTS / V4 (min speed slats retracted )
+VA / 5D 2 220 10 / % / CAB temp reg vlv pos group 3
+VACC / 04 1 364 01 / G / Vertical acceleration
+VACC / 04 2 364 10 / G / Vertical acceleration
+VB1 / 3D 1 135 01 / UNITS / N1 vibration eng #1
+VB1 / 3D 1 135 10 / UNITS / N1 vibration eng #2
+VB2 / 3D 1 136 01 / UNITS / N2 vibration eng #1
+VB2 / 3D 1 136 10 / UNITS / N2 vibration eng #2
+VC / 3D 1 227 11 / MILS / Displace unbalance TRF (LPT) engine 1
+VC / 3D 1 227 00 / MILS / Displace unbalance TRF (LPT) engine 2
+VF / 5D 2 206 10 / % / CAB temp reg vlv pos group 1
+VH / 3D 1 230 11 / IPS / N2 veloc unbalance BRG1 (HPC)engine #1
+VH / 3D 1 230 00 / IPS / N2 veloc unbalance BRG1 (HPC) engine #2
+VLS / 0A 1 245 00 / KTS / VLS (Min. airspeed)
+VLS / 0A 2 245 00 / KTS / VLS (Min. airspeed)
+VMAN / 0A 1 265 00 / KTS / Vman (maneuvering speed )
+VMAN / 0A 2 265 00 / KTS / Vman (maneuvering speed )
+VMAX / 0A 1 207 00 / KTS / V Max (Max. allowable airspeed)
+VMAX / 0A 2 207 00 / KTS / V Max (Max. allowable airspeed)
+VN / 3D 1 227 01 / MILS / Displace unbalance BRG1 or TRF engine 1
+VN / 3D 1 227 10 / MILS / Displace unbalance BRG1 or TRF engine 2
+VORF / 25 1 034 01 / MHz / VOR 1 frequency
+VORF / 25 1 034 10 / MHz / VOR 2 frequency
+VRTA / 29 1 333 01 / G / Normal acceleration
+VRTA / 29 2 333 01 / G / Normal acceleration
+VRTG / 04 1 333 01 / G / body normal acceleration
+VRTG / 04 2 333 10 / G / body normal acceleration
+VSCB / 5C 1 150 01 / FT/MIN / Cabin v/s
+VSCB / 5C 2 150 10 / FT/MIN / Cabin v/s
+VW / 5D 2 207 10 / % / CAB temp reg viv pos group 2
+WAI / 29 1 001 11 / WAI / LH wing anti ice valve closed system #1
+WAI / 29 1 001 00 / WAI / RH wing anti ice valve closed system #2
+WARN / 26 1 126 00 / No Units / FWC Discrete status word (Label=1 26 SDI=00)
+WB / 7A 1 123 01 / KG/S / APU bleed air flow
+WD / 04 1 316 01 / DEG / WIND DIRECTION true system #1
+WD / 04 2 316 10 / DEG / WIND DIRECTION true system #2
+WFQ / 5A 2 257 10 / KG/LBS / Fuel quantity LH inner cell system #1
+WFQ / 5A 2 261 10 / KG/LBS / Fuel quantity LH inner cell system #2
+WS / 04 1 315 01 / KTS / WIND SPEED system #1
+WS / 04 2 315 10 / KTS / WIND SPEED system #2
+WS1 / 6E 1 320 01 / M/S / wheel 1 speed
+WS1 / 6E 2 320 10 / M/S / wheel 1 speed
+WS2 / 6E 1 321 01 / M/S / wheel 2 speed
+WS2 / 6E 2 321 10 / M/S / wheel 2 speed
+WS3 / 6E 1 322 01 / M/S / wheel 3 speed
+WS3 / 6E 2 322 10 / M/S / wheel 3 speed
+WS4 / 6E 1 323 01 / M/S / wheel 4 speed
+WS4 / 6E 2 323 10 / M/S / wheel 4 speed
+YAW / 04 1 330 01 / DEG/S / Body axis YAW rate
+YAW / 04 2 330 10 / DEG/S / Body axis YAW rate
+ZCB / 5C 1 151 01 / FEET / Cabin altitude
+ZCB / 5C 2 151 10 / FEET / Cabin altitude
+ZDW1 / 50 2 060 10 / No Units / Discrete data word(Label 060) Zone
+ZDW1 / No Label / No Units / Controller bus2
+ZLD / 5C 1 163 01 / FEET / Landing elevation
+ZLD / 5C 2 163 10 / FEET / Landing elevation
